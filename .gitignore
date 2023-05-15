@@ -1,0 +1,17 @@
+# Ignore object files
+*.o
+
+# Ignore executables
+*.exe
+*.out
+
+# Ignore editor backup files
+*~
+*.swp
+*.swo
+
+# Ignore build directories
+/build
+/bin
+
+.vscode/
